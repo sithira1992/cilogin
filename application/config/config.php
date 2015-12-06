@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost:83/cilogin/';
+$config['base_url']	= 'http://localhost/cilogin/';
 
 /*
 |--------------------------------------------------------------------------
